@@ -1,7 +1,7 @@
 # E-commerce Sales Analysis
 This project showcases how we can use **SQL** and **Python** simultaneously to perform advanced data analysis. 
 ## About the Project
-This project involves analyzing sales data from an e-commerce platform to derive meaningful insights and answer key business questions. The analysis includes data cleaning, connecting to a database, querying the database, and performing various calculations to understand customer behavior, sales trends, and product performance.
+This project involves analyzing sales data from an e-commerce platform to derive meaningful insights and answer key business questions. The analysis includes data cleaning, connecting to a database, querying the database, and performing various calculations to understand customer behaviour, sales trends, and product performance.
 
 ## About Dataset
 Target is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience.
